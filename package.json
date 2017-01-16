@@ -1,0 +1,22 @@
+{
+  "name": "node-appsensor",
+  "version": "1.0.0",
+  "description": "Integration with OWASP AppSensor for node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/iandotkelly/node-appsensor.git"
+  },
+  "keywords": [
+    "OWASP"
+  ],
+  "author": "Ian Kelly",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iandotkelly/node-appsensor/issues"
+  },
+  "homepage": "https://github.com/iandotkelly/node-appsensor#readme"
+}
